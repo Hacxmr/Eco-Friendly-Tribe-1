@@ -4,7 +4,7 @@ This project is a fabric recommendation system that helps users find eco-friendl
 
 This system is a part of the [Eco-Friendly Tribe]([https://github.com/Hacxmr/Eco-Friendly-Tribe](https://hacxmr-eco-friendly-tribe-1-sustainable-fabric-dashboard-azfixm.streamlit.app/)) project, which aims to promote sustainable fabric choices.
 
-![Eco-Friendly Fabric Recommendation System]([https://github.com/Hacxmr/Eco-Friendly-Tribe/blob/main/fabric_recomm.jpg](https://github.com/Hacxmr/Eco-Friendly-Tribe-1/blob/main/sustainable_fashion.jpg))
+![Eco-Friendly Fabric Recommendation System](https://github.com/Hacxmr/Eco-Friendly-Tribe-1/blob/main/sustainable_fashion.jpg)
 
 ## Features
 
